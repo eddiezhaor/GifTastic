@@ -1,0 +1,51 @@
+#animalform{
+    float: right;
+}
+
+.gifImage{
+    float:left;
+    padding-right: 20px;
+    margin-top: 5px;
+}
+
+#animals{
+   width: 80%;
+}
+
+label{
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#animal-input{
+   
+    width:190px;
+}
+#addAnimal{
+    margin-top:7px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+button{
+    font-family: 'Risque', cursive;
+    font-size: 15px;
+    background-color:rgb(14, 234, 241);
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 120px;
+    height:30px;;
+}
+
+button:hover{
+    background-color: gold;
+}
+
+#addAnimal:hover{
+    width:81px;
+    height:40px;
+    background-color: gold;
+}
+#animalButton{
+    width: 90%;
+}
+
+
+
